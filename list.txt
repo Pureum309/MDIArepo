@@ -1,9 +1,6 @@
-Groceries
-Bread
-Butter
-Milk
-
 School supplies
 Pen
 Paper
 Glue
+notebook
+markers
